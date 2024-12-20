@@ -7,6 +7,7 @@
 **.pro
 **-bak
 **.bak
+**.lck
 **fp-info-cache
 **/gerber/*
 !**/gerber/.hidden
